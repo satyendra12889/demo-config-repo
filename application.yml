@@ -9,11 +9,8 @@ eureka:
     
     
 spring:
-  boot: 
-    admin: 
-      url: http://localhost:9198 
-  boot:
-    admin:  
-       client: 
+    boot:
+      admin:  
+        client: 
            url: http://localhost:9198/
     

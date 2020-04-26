@@ -6,5 +6,11 @@ eureka:
       defaultZone: http://localhost:8761/eureka/
   instance:
     hostname: localhost
+    
+    
+spring:
+  boot: 
+    admin: 
+      url: http://localhost:9198 
 
     

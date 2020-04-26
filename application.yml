@@ -12,5 +12,5 @@ spring:
     boot:
       admin:  
         client: 
-           url: http://localhost:9198/
+            url: http://localhost:9198/
     
